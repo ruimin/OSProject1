@@ -3,7 +3,7 @@ package hawaii;
 /**
  * Tracks the number of people on each island.
  * Provides the main method for the program
- *
+ * @author RuiminCai
  */
 public class Hawaii {
 	private static final int NUM_CHILDREN = 3;

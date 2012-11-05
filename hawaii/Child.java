@@ -2,7 +2,7 @@ package hawaii;
 
 /**
  * Provides the behavior of an individual child
- *
+ * @author RuiminCai
  */
 public class Child implements Runnable {
 	// Is the child on Oahu?

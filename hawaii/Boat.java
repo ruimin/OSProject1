@@ -3,7 +3,7 @@ package hawaii;
 
 /**
  * The boat is the shared resource that the children and adults are contending for.
- *
+ * @author RuiminCai
  */
 public class Boat {
 	// Number of children on the boat

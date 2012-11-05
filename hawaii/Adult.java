@@ -2,7 +2,7 @@ package hawaii;
 
 /**
  * Provides the behavior for a single adult.
- *
+ * @author RuiminCai
  */
 public class Adult implements Runnable {
 	// Is the adult on Oahu?
